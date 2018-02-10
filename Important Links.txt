@@ -1,0 +1,3 @@
+OpenCV Documentation/Tutorials: opencv-python-tutroals.readthedocs.io
+Download OpenCV .whl file - https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
+Download .whl files for various Python modules - https://www.lfd.uci.edu/~gohlke/pythonlibs
